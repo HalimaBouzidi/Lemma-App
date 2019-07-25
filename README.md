@@ -9,3 +9,6 @@ Lemma is a mobile social networking platform adapted for family use which offers
 - Never miss an event related to your family (a party, a birthday ...)
 
 This project is developed with the cross platform xamarin forms with the use of the firebase service and the sqlLite database for the lemma mode. We intend to implement it with AppOsManager.
+
+Here's the demonstration video : 
+https://www.youtube.com/watch?v=464okNu_eGE
